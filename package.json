@@ -2,7 +2,7 @@
   "name": "literate-md",
   "version": "1.0.0",
   "author": "Bryan Ross @rossipedia",
-  "description": "Webpack Loader that extracts all code from fenced codeblocks in markdown",
+  "description": "A little function that extracts all code from fenced code blocks in a markdown document",
   "main": "README.md",
   "license": "MIT"
 }
