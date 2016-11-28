@@ -1,0 +1,8 @@
+{
+  "name": "literate-md",
+  "version": "1.0.0",
+  "author": "Bryan Ross @rossipedia",
+  "description": "Webpack Loader that extracts all code from fenced codeblocks in markdown",
+  "main": "README.md",
+  "license": "MIT"
+}
